@@ -1,8 +1,9 @@
 # Hi! I'm Victor Yuji 👋
 
-| **Estatísticas de Commits** | **Linguagens** |
-| ----------------------------- | --------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi&height=200) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi&height=200) |
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px; display: inline-block; vertical-align: top; margin-right: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px; display: inline-block; vertical-align: top;"/>
+</div>
 
 ## • 💻 Front-end
 <div>
