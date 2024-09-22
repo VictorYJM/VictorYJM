@@ -1,7 +1,6 @@
 Hi! I'm Victor Yuji.
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&theme=dark)
-
-## Linguagens Mais Usadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=dark)
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorYJM&theme=holi&count_private=true"/>
+   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&langs_count=16&theme=holi&card_width=400"/>
+</div>
