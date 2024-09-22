@@ -1,6 +1,6 @@
 # Hi! I'm Victor Yuji 👋
 
-| ![Commits](https://github-readme-stats.vercel.app/api/commits?username=VictorYJM) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact) |
+| ![Commits](https://github-readme-stats.vercel.app/api/commits?username=VictorYJM&layout=compact) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact) |
 
 
 ## • 💻 Front-end
