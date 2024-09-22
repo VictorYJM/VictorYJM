@@ -2,9 +2,9 @@
 
 # Estatísticas do Meu GitHub
 
-| Estatísticas de Commits | Linguagens |
+| **Estatísticas de Commits** | **Linguagens** |
 | ------------------------ | ---------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=radical) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi) |
 
 
 
