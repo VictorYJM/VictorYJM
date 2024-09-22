@@ -1,11 +1,9 @@
-Hi! I'm Victor Yuji 👋
+# Hi! I'm Victor Yuji 👋
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&theme=dark"/>
    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=dark"/>
 </div>
-
-## Badges
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
