@@ -2,7 +2,7 @@
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&theme=dark" style="display: inline-block; vertical-align: top;"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=dark&card_width=100" style="display: inline-block; vertical-align: top;"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=dark&card_width=250" style="display: inline-block; vertical-align: top;"/>
 </div>
 
 ## • 💻 Front-end
