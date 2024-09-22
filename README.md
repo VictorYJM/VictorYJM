@@ -1,9 +1,16 @@
 # Hi! I'm Victor Yuji 👋
 
-# Estatísticas do Meu GitHub
-   
-   <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px; display: inline-block; vertical-align: top; margin-right: 20px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px; display: inline-block; vertical-align: top;"/>
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px;"/>
+    <br>**Estatísticas de Commits**
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px;"/>
+    <br>**Linguagens**
+  </div>
+</div>
+
 ## • 💻 Front-end
 <div>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="display: inline-block;"/>
