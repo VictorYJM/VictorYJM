@@ -2,16 +2,20 @@
 
 # Estatísticas do Meu GitHub
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px;"/>
-    <br>**Estatísticas de Commits**
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px;"/>
-    <br>**Linguagens**
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px;"/>
+      <br>**Estatísticas de Commits**
+    </td>
+    <th>
+      **Linguagens**
+    </th>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px;"/>
+    </td>
+  </tr>
+</table>
 
 ## • 💻 Front-end
 <div>
