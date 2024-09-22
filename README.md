@@ -1,8 +1,8 @@
 # Hi! I'm Victor Yuji 👋
 
 <div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi">
-   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi"">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi">
+   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi"">
 </div>
 
 ## • 💻 Front-end
