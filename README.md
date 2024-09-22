@@ -2,8 +2,8 @@
 
 # Estatísticas do Meu GitHub
    
-      <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px;"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px;"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&count_private=true&theme=holi" style="height: 200px;"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=holi" style="height: 200px;"/>
 
 ## • 💻 Front-end
 <div>
