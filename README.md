@@ -1,7 +1,7 @@
 Hi! I'm Victor Yuji.
 
 ## Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorYJM&show_icons=true&theme=dark)
 
 ## Linguagens Mais Usadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYJM&layout=compact&theme=dark)
